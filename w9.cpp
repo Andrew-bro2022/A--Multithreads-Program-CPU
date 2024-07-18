@@ -1,6 +1,4 @@
-// Workshop 9 - Multi-threading
-// w9_p1.cpp
-// Michael Huang
+// Workshop  - Multi-threading
 
 #include <iostream>
 #include <iomanip>
