@@ -1,5 +1,5 @@
 # A-C-program---Multithreads-CPU
-**Summary**A C++ program using threads to improve the performance CPU
+**Summary**A C++ program using threads to improve the performance of CPU
 
 
 **Technical Highlights:**
@@ -57,3 +57,7 @@
         t2.join();
         t3.join();
         t4.join();
+
+**Output**
+
+![image](https://github.com/user-attachments/assets/43374a05-9e8c-4539-9b13-37d72352a5d5)
