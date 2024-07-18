@@ -5,6 +5,7 @@
 **Technical Highlights:**
 
 **1. The advantages of using multiple threads**
+
     In this program, I created 4 threads according to the CPU. The speed of the program is boosted by 75%.
     Below the code are the vector, provider, and threads.
 	  I put 4 package_task objects into 4 threads as the task function.
@@ -52,7 +53,7 @@
 		
 	//join
  
-	t1.join();
+		t1.join();
         t2.join();
         t3.join();
         t4.join();
