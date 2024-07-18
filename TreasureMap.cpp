@@ -1,19 +1,14 @@
-// Workshop 9 - Multi-threading
+// Workshop - Multi-threading
 // TreasureMap.cpp
-// Michael Huang
+
 
 /*
 *****************************************************************************
                   Workshop - #9 (P2)
 Full Name   : Yuchi Zheng
-Student ID# : 025 848 151
-Email       : yzheng103@myseneca.ca
-Section     : NFF
+Email       : andyzheng.ca@gmail.com
 Date        : 25th, November, 2022
 
-Authenticity Declaration :
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my workshops and assignments.
 * ****************************************************************************
 */
 
@@ -128,7 +123,7 @@ namespace sdds{
           map = new std::string[rows];
           for (size_t i = 0; i < rows; i++) {
              map[i].resize(colSize);
-             iFile.read((char*)(map[i].c_str()), colSize);//not map[i].length()£¬ because it may not be read   
+             iFile.read((char*)(map[i].c_str()), colSize);//not map[i].length()Â£Â¬ because it may not be read   
              //iFile.read((char*)(&(map[i][0])), map[i].length());//map[i].length()  colSize
 
              /*size_t len = colSize * sizeof(char);
