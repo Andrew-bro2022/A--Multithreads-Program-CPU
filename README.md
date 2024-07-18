@@ -1,4 +1,4 @@
-# A-C-program---Multithreads-CPU
+# A---Multithreads-program-CPU
 **Summary**A C++ program using threads to improve the performance of CPU
 
 
