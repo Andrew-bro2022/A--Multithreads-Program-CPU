@@ -1,19 +1,13 @@
-// Workshop 9 - Multi-threading
+// Workshop  - Multi-threading
 // TreasureMap.h
-// Michael Huang
 
 /*
 *****************************************************************************
-                  Workshop - #9 (P2)
+                  Workshop  (P2)
 Full Name   : Yuchi Zheng
-Student ID# : 025 848 151
-Email       : yzheng103@myseneca.ca
-Section     : NFF
+Email       : andyzheng.ca@gmail.com
 Date        : 25th, November, 2022
 
-Authenticity Declaration :
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my workshops and assignments.
 * ****************************************************************************
 */
 
